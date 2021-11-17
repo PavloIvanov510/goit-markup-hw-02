@@ -1,0 +1,40 @@
+/* body */
+.page {
+  font-family: "Roboto", sans-serif;
+  color: #212121;
+  background-color: white;
+}
+ul {
+  list-style: none;
+}
+/* logo/header/footer */
+.logo {
+  color: #000000;
+}
+.logo-color {
+  color: #2196f3;
+}
+/* site-nav */
+.site-nav .link {
+  color: #212121;
+}
+.link:hover,
+.link:focus {
+  color: #2196f3;
+}
+/* site-nav-contact */
+.link-contact {
+  color: #757575;
+}
+.link-contact:hover {
+  color: #2196f3;
+}
+/* button section */
+.btn {
+  background-color: #f5f4fa;
+  color: #212121;
+}
+.btn:hover {
+  background-color: #2196f3;
+  color: #ffffff;
+}
