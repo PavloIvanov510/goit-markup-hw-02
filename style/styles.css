@@ -8,6 +8,7 @@
 }
 .page {
   font-family: "Roboto", sans-serif;
+
   font-size: 14px;
   letter-spacing: 0.03em;
   /* cursor: pointer; */
@@ -20,7 +21,7 @@ ul {
 }
 /* logo/header/footer */
 .logo {
-  font-family: Raleway;
+  font-family: "Raleway", sans-serif;
   font-weight: bold;
   font-size: 26px;
   color: var(--color-blu-);
@@ -31,7 +32,7 @@ ul {
 }
 /* site-nav */
 .site-nav {
-  color: var(--alert-text-color);
+  color: var(--color-text);
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
