@@ -8,7 +8,6 @@
 }
 .page {
   font-family: "Roboto", sans-serif;
-
   font-size: 14px;
   letter-spacing: 0.03em;
   /* cursor: pointer; */
@@ -40,6 +39,7 @@ ul {
   text-decoration: none;
 }
 .site-nav .link {
+  color: var(--color-text);
   text-decoration: none;
 }
 .link:hover,
@@ -113,6 +113,7 @@ ul {
   font-size: 18px;
   line-height: 36px;
   letter-spacing: 0.06em;
+  color: var(--color-text);
 }
 .portfolio-text {
   font-size: 16px;
